@@ -13,4 +13,3 @@
 - *numpy*
 - *scipy*
 - *seaborn*
-
